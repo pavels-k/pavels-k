@@ -17,4 +17,4 @@
 
 
 - ⚡ **Fun fact**  
-  I once reduced a bank's report generation time from 8 hours to 15 minutes—just enough time to brew a perfect cup of coffee! ☕
+  I once reduced a bank's report generation time from 8 hours to 15 minutes - just enough time to brew a perfect cup of coffee! ☕
